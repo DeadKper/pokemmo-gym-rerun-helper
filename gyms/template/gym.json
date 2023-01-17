@@ -1,0 +1,58 @@
+{
+  "1": {
+    "name": "name",
+    "leader": "name",
+    "type": "type",
+    "payout": 8632,
+    "teams": []
+  },
+  "2": {
+    "name": "name",
+    "leader": "name",
+    "type": "type",
+    "payout": 8736,
+    "teams": []
+  },
+  "3": {
+    "name": "name",
+    "leader": "name",
+    "type": "type",
+    "payout": 8840,
+    "teams": []
+  },
+  "4": {
+    "name": "name",
+    "leader": "name",
+    "type": "type",
+    "payout": 8944,
+    "teams": []
+  },
+  "5": {
+    "name": "name",
+    "leader": "name",
+    "type": "type",
+    "payout": 9048,
+    "teams": []
+  },
+  "6": {
+    "name": "name",
+    "leader": "name",
+    "type": "type",
+    "payout": 9152,
+    "teams": []
+  },
+  "7": {
+    "name": "name",
+    "leader": "name",
+    "type": "type",
+    "payout": 9256,
+    "teams": []
+  },
+  "8": {
+    "name": "name",
+    "leader": "name",
+    "type": "type",
+    "payout": 9360,
+    "teams": []
+  }
+}

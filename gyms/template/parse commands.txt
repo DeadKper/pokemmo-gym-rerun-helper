@@ -1,0 +1,5 @@
+Pokemon:
+sed -r "s/\t/_/g" | sed -r "s/(.*)/¿\1?/g" | sed -r "s/([^_¿?]+)_*\t*/\n\t\t\t\t{\n\t\t\t\t\t\"pokemon\": \"\1\",\n\t\t\t\t\t\"level\": 100,\n\t\t\t\t\t\"ability\": \"\",\n\t\t\t\t\t\"item\": \"\",\n\t\t\t\t\t\"nature\": \"\",\n\t\t\t\t\t\"ivs\": [31, 31, 31, 31, 31, 31],\n\t\t\t\t\t\"evs\": [85, 85, 85, 85, 85, 85],\n\t\t\t\t\t\"moves\": []\n\t\t\t\t},/ig" | sed "s/¿/[/g" | sed "s/,?/\n\t\t\t],\n\t\t\t/g"
+
+moves:
+sed -r "s/([^ ,][^,]+)/\"\1\"/g"

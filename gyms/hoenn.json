@@ -1,0 +1,2546 @@
+{
+  "rustboro": {
+    "name": "Rustboro City",
+    "leader": "Roxane",
+    "type": "Rock",
+    "payout": 8632,
+    "teams": [
+      [
+        {
+          "pokemon": "Probopass",
+          "level": 83,
+          "ability": "Sand Force",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Earthquake", "Head Smash", "Iron Head"]
+        },
+        {
+          "pokemon": "Tyranitar",
+          "level": 81,
+          "ability": "Sand Stream",
+          "item": "Smooth Rock",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Crunch", "Stealth Rock", "Protect"]
+        },
+        {
+          "pokemon": "Golem",
+          "level": 80,
+          "ability": "Sturdy",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Thunder Punch", "Hammer Arm", "Stone Edge", "Dig"]
+        },
+        {
+          "pokemon": "Omastar",
+          "level": 82,
+          "ability": "Weak Armour",
+          "item": "Focus Sash",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Muddy Water", "Ice Beam", "Earth Power", "Shell Smash"]
+        },
+        {
+          "pokemon": "Aerodactyl",
+          "level": 81,
+          "ability": "Rock Head",
+          "item": "Power Herb",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Sky Attack", "Stone Edge", "Double-Edge", "Iron Tail"]
+        },
+        {
+          "pokemon": "Kabutops",
+          "level": 80,
+          "ability": "Weak Armour",
+          "item": "Life Orb",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Superpower", "X-Scissor", "Aqua Tail"]
+        }
+      ],
+      [
+        {
+          "pokemon": "Tyranitar",
+          "level": 82,
+          "ability": "Sand Stream",
+          "item": "Smooth Rock",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Crunch", "Stone Edge", "Ice Punch", "Stealth Rock"]
+        },
+        {
+          "pokemon": "Cradily",
+          "level": 80,
+          "ability": "Storm Drain",
+          "item": "Leftovers",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Giga Drain", "Stockpile", "Toxic", "Recover"]
+        },
+        {
+          "pokemon": "Archeops",
+          "level": 81,
+          "ability": "Defeatist",
+          "item": "Choice Scarf",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Head Smash", "Fly", "Aqua Tail", "Heat Wave"]
+        },
+        {
+          "pokemon": "Rampardos",
+          "level": 80,
+          "ability": "Sheer Force",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Crunch", "Iron Tail", "Zen Headbutt"]
+        },
+        {
+          "pokemon": "Armaldo",
+          "level": 81,
+          "ability": "Swift Swim",
+          "item": "Life Orb",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Stone Edge", "Superpower", "X-Scissor", "Aqua Tail"]
+        },
+        {
+          "pokemon": "Probopass",
+          "level": 83,
+          "ability": "Sturdy",
+          "item": "Leftovers",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Power Gem", "Volt Switch", "Wide Guard", "Thunder Wave"]
+        }
+      ],
+      [
+        {
+          "pokemon": "Tyranitar",
+          "level": 82,
+          "ability": "Sand Stream",
+          "item": "Smooth Rock",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Stone Edge", "Counter", "Ice Beam", "Stealth Rock"]
+        },
+        {
+          "pokemon": "Relicanth",
+          "level": 80,
+          "ability": "Rock Head",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Head Smash", "Double-Edge", "Aqua Tail", "Zen Headbutt"]
+        },
+        {
+          "pokemon": "Armaldo",
+          "level": 80,
+          "ability": "Swift Swim",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["X-Scissor", "Stone Edge", "Superpower", "Aqua Tail"]
+        },
+        {
+          "pokemon": "Aggron",
+          "level": 81,
+          "ability": "Sturdy",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Thunder Punch", "Fire Punch", "Iron Tail"]
+        },
+        {
+          "pokemon": "Probopass",
+          "level": 83,
+          "ability": "Sturdy",
+          "item": "Leftovers",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Power Gem", "Volt Switch", "Iron Defense", "Thunder Wave"]
+        },
+        {
+          "pokemon": "Kabutops",
+          "level": 81,
+          "ability": "Weak Armour",
+          "item": "Choice Scarf",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["X-Scissor", "Stone Edge", "Superpower", "Aqua Tail"]
+        }
+      ],
+      [
+        {
+          "pokemon": "Gigalith",
+          "level": 81,
+          "ability": "Sand Stream",
+          "item": "Smooth Rock",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Earthquake", "Rock Slide", "Superpower", "Stealth Rock"]
+        },
+        {
+          "pokemon": "Archeops",
+          "level": 81,
+          "ability": "Defeatist",
+          "item": "Flying Gem",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Acrobatics", "Stone Edge", "U-Turn", "Aqua Tail"]
+        },
+        {
+          "pokemon": "Aggron",
+          "level": 82,
+          "ability": "Sturdy",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Stone Edge", "Iron Tail", "Fire Punch", "Thunder Punch"]
+        },
+        {
+          "pokemon": "Carracosta",
+          "level": 80,
+          "ability": "Solid Rock",
+          "item": "Rindo Berry",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Stone Edge", "Ice Beam", "Hydro Pump", "Earth Power"]
+        },
+        {
+          "pokemon": "Cradily",
+          "level": 80,
+          "ability": "Storm Drain",
+          "item": "Leftovers",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Seed Bomb", "Curse", "Recover"]
+        },
+        {
+          "pokemon": "Probopass",
+          "level": 83,
+          "ability": "Sturdy",
+          "item": "Zoom Lens",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Power Gem", "Zap Cannon", "Helping Hand", "Wide Guard"]
+        }
+      ],
+      [
+        {
+          "pokemon": "Gigalith",
+          "level": 81,
+          "ability": "Sand Stream",
+          "item": "Smooth Rock",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Explosion", "Stone Edge", "Superpower", "Stealth Rock"]
+        },
+        {
+          "pokemon": "Steelix",
+          "level": 81,
+          "ability": "Sheer Force",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Iron Tail", "Dig", "Crunch"]
+        },
+        {
+          "pokemon": "Carracosta",
+          "level": 82,
+          "ability": "Sturdy",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Stone Edge", "Aqua Tail", "Superpower", "Zen Headbutt"]
+        },
+        {
+          "pokemon": "Rampardos",
+          "level": 80,
+          "ability": "Mold Breaker",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Crunch", "Head Smash", "Hammer Arm", "Zen Headbutt"]
+        },
+        {
+          "pokemon": "Bastiodon",
+          "level": 80,
+          "ability": "Sturdy",
+          "item": "Lum Berry",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Sandstorm", "Toxic", "Rest", "Iron Defense"]
+        },
+        {
+          "pokemon": "Probopass",
+          "level": 83,
+          "ability": "Sand Force",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Explosion", "Head Smash", "Iron Head"]
+        }
+      ]
+    ]
+  },
+  "dewford": {
+    "name": "Dewford Town",
+    "leader": "Brawly",
+    "type": "Fighting",
+    "payout": 8736,
+    "teams": [
+      [
+        {
+          "pokemon": "Scrafty",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Zangoose",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Medicham",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Heracross",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Hariyama",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Hitmontop",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Hitmontop",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Staraptor",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Hariyama",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Hitmonchan",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Scrafty",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Breloom",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Hariyama",
+          "level": 84,
+          "ability": "Guts",
+          "item": "Flame Orb",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Fake Out", "Close Combat", "Ice Punch"]
+        },
+        {
+          "pokemon": "Staraptor",
+          "level": 83,
+          "ability": "Intimidate",
+          "item": "Choice Scarf",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Final Gambit", "Close Combat", "U-Turn", "Return"]
+        },
+        {
+          "pokemon": "Machamp",
+          "level": 82,
+          "ability": "No Guard",
+          "item": "Choice Band",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Ice Punch", "Dynamic Punch", "Stone Edge", "Bullet Punch"]
+        },
+        {
+          "pokemon": "Medichamp",
+          "level": 81,
+          "ability": "Pure Power",
+          "item": "Focus Sash",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Fake Out", "Zen Headbutt", "High Jump Kick", "Ice Punch"]
+        },
+        {
+          "pokemon": "Mienshao",
+          "level": 82,
+          "ability": "Reckless",
+          "item": "Focus Sash",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Fake Out", "High Jump Kick", "Wide Guard"]
+        },
+        {
+          "pokemon": "Hitmonlee",
+          "level": 81,
+          "ability": "Reckless",
+          "item": "Life Orb",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Fake Out", "High Jump Kick", "Sucker Punch"]
+        }
+      ],
+      [
+        {
+          "pokemon": "Hitmontop",
+          "level": 81,
+          "ability": "Intimidate",
+          "item": "Sitrus Berry",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Rock Slide", "Fake Out", "Close Combat", "Wide Guard"]
+        },
+        {
+          "pokemon": "Primeape",
+          "level": 83,
+          "ability": "Defiant",
+          "item": "Choice Scarf",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Final Gambit", "Ice Punch", "Close Combat", "Seed Bomb"]
+        },
+        {
+          "pokemon": "Machamp",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Hariyama",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Hitmonlee",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Sableye",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Lucario",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Staraptor",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Scrafty",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Mienshao",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Hariyama",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Sableye",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ]
+    ]
+  },
+  "mauville": {
+    "name": "Mauville City",
+    "leader": "Wattson",
+    "type": "Electric",
+    "payout": 8840,
+    "teams": [
+      [
+        {
+          "pokemon": "Raichu",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Pikachu",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Lanturn",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Electrode",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "Timid",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Jolteon",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Manectric",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Manectric",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Zebstrika",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Emolga",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Magnezone",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Seaking",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Electivire",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Jolteon",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Zebstrika",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Ampharos",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Raichu",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Emolga",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Manectric",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Raichu",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Rotom Wash",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Zebstrika",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Plusle",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Manectric",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Minun",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Raichu",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Manetric",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Electivire",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Pikachu",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Pachirisu",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Zebstrika",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ]
+    ]
+  },
+  "lavaridge": {
+    "name": "Lavaridge Town",
+    "leader": "Flannery",
+    "type": "Fire",
+    "payout": 8944,
+    "teams": [
+      [
+        {
+          "pokemon": "Torkoal",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Arcanine",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Chandelure",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Houndoom",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Rapidash",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Flareon",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Torkoal",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Houndoom",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Typhlosion",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Charizard",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Blaziken",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Darmanitan",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Torkoal",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Typhlosion",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Houndoom",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Chandelure",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Magmortar",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Ninetales",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Torkoal",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Charizard",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Chandelure",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Blaziken",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Houndoom",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Camerupt",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Torkoal",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Arcanine",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Macargo",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Heat Rotom",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Flareon",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Camerupt",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ]
+    ]
+  },
+  "petalburg": {
+    "name": "Petalburg City",
+    "leader": "Norman",
+    "type": "Normal",
+    "payout": 9048,
+    "teams": [
+      [
+        {
+          "pokemon": "Slaking",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Stantler",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Stoutland",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Granbull",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Tauros",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Staraptor",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Slaking",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Kecleon",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Linoone",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Blissey",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Castform",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Sawsbuck",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Slaking",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Spinda",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Chansey",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Staraptor",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Stoutland",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Kangashkan",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Slaking",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Blissey",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Bouffalant",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Tauros",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Sawsbuck",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Zangoose",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Slaking",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Chansey",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Ambipom",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Exploud",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Bouffalant",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Kangashkan",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ]
+    ]
+  },
+  "fortree": {
+    "name": "Fortree City",
+    "leader": "Winona",
+    "type": "Flying",
+    "payout": 9152,
+    "teams": [
+      [
+        {
+          "pokemon": "Swellow",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Tropius",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Dragonite",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Sigilyph",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Beatifly",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Altaria",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Altaria",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Swellow",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Gyarados",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Honchkrow",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Masquerain",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Tropius",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Masquerain",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Gyarados",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Skarmory",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Honchkrow",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Altaria",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Noctowl",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Gyarados",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Skarmory",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Altaria",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Honchkrow",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Sigilyph",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Masquerain",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Pelipper",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Dragonite",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Gyarados",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Honchkrow",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Noctowl",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Altaria",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ]
+    ]
+  },
+  "mossdeep": {
+    "name": "Mossdeep City",
+    "leader": "Liza and Tate",
+    "type": "Psychic",
+    "payout": 9256,
+    "teams": [
+      [
+        {
+          "pokemon": "Metagross",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Grumpig",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Darmanitan",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Slowking",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Lunatone",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Medicham",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Wobuffet",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Lucario",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Slowbro",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Bronzong",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Reuniclus",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Lunatone",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Gothitelle",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Reuniclus",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Grumpig",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Medicham",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Chimecho",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Solrock",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Solrock",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Lunatone",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Darmanitan",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Slowbro",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Xatu",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Claydol",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Slowking",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Bronzong",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Hypno",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Gallade",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Gardevoir",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Solrock",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ]
+    ]
+  },
+  "sootopolis": {
+    "name": "Sootopolis City",
+    "leader": "Juan",
+    "type": "Water",
+    "payout": 9360,
+    "teams": [
+      [
+        {
+          "pokemon": "Lapras",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Vaporeon",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Mantine",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Jellicent",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Lanturn",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Kingdra",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Masquerain",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Gyarados",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Corsola",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Lanturn",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Starmie",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Kingdra",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Kingdra",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Pelliper",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Whiscash",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Walrein",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Tentacruel",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Milotic",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Politoed",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Huntail",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Relicanth",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Gorebyss",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Luvdisc",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Kingdra",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ],
+      [
+        {
+          "pokemon": "Mantine",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Seaking",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Azumarill",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Wailord",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Crawduant",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        },
+        {
+          "pokemon": "Kingdra",
+          "level": 100,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": []
+        }
+      ]
+    ]
+  }
+}

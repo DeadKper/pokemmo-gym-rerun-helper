@@ -326,125 +326,125 @@
       [
         {
           "pokemon": "Scrafty",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Intimidate",
+          "item": "Life Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Crunch", "High Jump Kick", "Ice Punch"]
         },
         {
           "pokemon": "Zangoose",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Immunity",
+          "item": "Choice Scarf",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Final Gambit", "Return", "Close Combat", "Ice Punch"]
         },
         {
           "pokemon": "Medicham",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 81,
+          "ability": "Pure Power",
+          "item": "Focus Sash",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Ice Punch", "High Jump Kick", "Zen Headbutt"]
         },
         {
           "pokemon": "Heracross",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 84,
+          "ability": "Swarm",
+          "item": "Focus Sash",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Rock Slide", "Night Slash", "Close Combat", "Megahorn"]
         },
         {
           "pokemon": "Hariyama",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 84,
+          "ability": "Guts",
+          "item": "Flame Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Rock Slide", "Fake Out", "Close Combat", "Ice Punch"]
         },
         {
           "pokemon": "Hitmontop",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 81,
+          "ability": "Intimidate",
+          "item": "Sitrus Berry",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Rock Slide", "Fake Out", "Close Combat", "Wide Guard"]
         }
       ],
       [
         {
           "pokemon": "Hitmontop",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 81,
+          "ability": "Intimidate",
+          "item": "Payapa Berry",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Rock Slide", "Fake Out", "Close Combat", "Wide Guard"]
         },
         {
           "pokemon": "Staraptor",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Intimidate",
+          "item": "Choice Scarf",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Final Gambit", "Close Combat", "U-Turn", "Return"]
         },
         {
           "pokemon": "Hariyama",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 84,
+          "ability": "Thick Fat",
+          "item": "Chesto Berry",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Stone Edge", "Cross Chop", "Rest"]
         },
         {
           "pokemon": "Hitmonchan",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 81,
+          "ability": "Iron Fist",
+          "item": "Life Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Drain Punch", "Ice Punch", "Mach Punch"]
         },
         {
           "pokemon": "Scrafty",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Intimidate",
+          "item": "Coba Berry",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Ice Punch", "Crunch", "High Jump Kick", "Ice Punch"]
         },
         {
           "pokemon": "Breloom",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Technician",
+          "item": "Focus Sash",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Bullet Seed", "Mach Punch", "Low Sweep", "Spore"]
         }
       ],
       [
@@ -532,105 +532,110 @@
         },
         {
           "pokemon": "Machamp",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "No Guard",
+          "item": "Life Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Stone Edge", "Dynamic Punch", "Bullet Punch", "Ice Punch"]
         },
         {
           "pokemon": "Hariyama",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 84,
+          "ability": "Guts",
+          "item": "Flame Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Rock Slide", "Fake Out", "Close Combat", "Ice Punch"]
         },
         {
           "pokemon": "Hitmonlee",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Unburden",
+          "item": "Focus Sash",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Rock Slide", "Fake Out", "Close Combat", "Sucker Punch"]
         },
         {
           "pokemon": "Sableye",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 81,
+          "ability": "Prankster",
+          "item": "Sitrus Berry",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Foul Play", "Swagger", "Will-O-Wisp"]
         }
       ],
       [
         {
           "pokemon": "Lucario",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Inner Focus",
+          "item": "Choice Scarf",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Final Gambit", "Aura Sphere", "Flash Cannon", "Dark Pulse"]
         },
         {
           "pokemon": "Staraptor",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Intimidate",
+          "item": "Choice Scarf",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Final Gambit", "Close Combat", "Return", "U-Turn"]
         },
         {
           "pokemon": "Scrafty",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 81,
+          "ability": "Intimidate",
+          "item": "Life Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Head Smash", "Crunch", "High Jump Kick"]
         },
         {
           "pokemon": "Mienshao",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Reckless",
+          "item": "Focus Sash",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Fake Out",
+            "High Jump Kick",
+            "Stone Edge",
+            "Hidden Power (Ice)"
+          ]
         },
         {
           "pokemon": "Hariyama",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 84,
+          "ability": "Guts",
+          "item": "Flame Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Close Combat", "Ice Punch", "Thunder Punch"]
         },
         {
           "pokemon": "Sableye",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 81,
+          "ability": "Prankster",
+          "item": "Sitrus Berry",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Foul Play", "Swagger", "Will-O-Wisp"]
         }
       ]
     ]

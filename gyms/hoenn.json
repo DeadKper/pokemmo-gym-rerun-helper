@@ -649,311 +649,366 @@
       [
         {
           "pokemon": "Raichu",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Lightning Rod",
+          "item": "Focus Sash",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Reversal", "Discharge", "Hidden Power (Ice)"]
         },
         {
           "pokemon": "Pikachu",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 84,
+          "ability": "Lightning Rod",
+          "item": "Light Ball",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Brick Break", "Discharge", "Grass Knot"]
         },
         {
           "pokemon": "Lanturn",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Volt Absorb",
+          "item": "Air Balloon",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Discharge", "Hydro Pump", "Ice Beam", "Soak"]
         },
         {
           "pokemon": "Electrode",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Aftermath",
+          "item": "Choice Specs",
           "nature": "Timid",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Foul Play",
+            "Discharge",
+            "Hidden Power (Ice)",
+            "Signal Beam"
+          ]
         },
         {
           "pokemon": "Jolteon",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Volt Absorb",
+          "item": "Life Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Discharge",
+            "Hyper Voice",
+            "Shadow Ball",
+            "Hidden Power (Grass)"
+          ]
         },
         {
           "pokemon": "Manectric",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 85,
+          "ability": "Lightning Rod",
+          "item": "Normal Gem",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Discharge",
+            "Flamethrower",
+            "Hidden Power (Grass)",
+            "Hyper Beam"
+          ]
         }
       ],
       [
         {
           "pokemon": "Manectric",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 85,
+          "ability": "Lightning Rod",
+          "item": "Life Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Discharge", "Flamethrower", "Hidden Power (Ice)", "Uproar"]
         },
         {
           "pokemon": "Zebstrika",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Lightning Rod",
+          "item": "Air Balloon",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Discharge",
+            "Overheat",
+            "Hidden Power (Grass)",
+            "Light Screen"
+          ]
         },
         {
           "pokemon": "Emolga",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Motor Drive",
+          "item": "Focus Sash",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Discharge", "Air Slash", "Hidden Power (Ice)", "Tailwind"]
         },
         {
           "pokemon": "Magnezone",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 84,
+          "ability": "Analytic",
+          "item": "Choice Specs",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Signal Beam",
+            "Discharge",
+            "Flash Cannon",
+            "Hidden Power (Fire)"
+          ]
         },
         {
           "pokemon": "Seaking",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Lightning Rod",
+          "item": "Choice Specs",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Ice Beam",
+            "Hydro Pump",
+            "Signal Beam",
+            "Hidden Power (Grass)"
+          ]
         },
         {
           "pokemon": "Electivire",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Motor Drive",
+          "item": "Air Balloon",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Cross Chop", "Discharge", "Flamethrower", "Helping Hand"]
         }
       ],
       [
         {
           "pokemon": "Jolteon",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 84,
+          "ability": "Volt Absorb",
+          "item": "Choice Specs",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Discharge",
+            "Hyper Voice",
+            "Hidden Power (Water)",
+            "Shadow Ball"
+          ]
         },
         {
           "pokemon": "Zebstrika",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Lightning Rod",
+          "item": "Air Balloon",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Discharge",
+            "Hidden Power (Ice)",
+            "Overheat",
+            "Light Screen"
+          ]
         },
         {
           "pokemon": "Ampharos",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Static",
+          "item": "Cell Battery",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Giga Impact", "Outrage", "Discharge", "Focus Blast"]
         },
         {
           "pokemon": "Raichu",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Lightning Rod",
+          "item": "Life Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Discharge", "Focus Blast", "Grass Knot"]
         },
         {
           "pokemon": "Emolga",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Motor Drive",
+          "item": "Flying Gem",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Acrobatics", "Discharge", "Tailwind", "Helping Hand"]
         },
         {
           "pokemon": "Manectric",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 85,
+          "ability": "Lightning Rod",
+          "item": "Air Balloon",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Discharge",
+            "Flamethrower",
+            "Hidden Power (Grass)",
+            "Charge"
+          ]
         }
       ],
       [
         {
           "pokemon": "Raichu",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 84,
+          "ability": "Lightning Rod",
+          "item": "Choice Specs",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Discharge", "Surf", "Focus Blast", "Hidden Power (Ice)"]
         },
         {
           "pokemon": "Rotom Wash",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Levitate",
+          "item": "Absorb Bulb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
-        },
-        {
-          "pokemon": "Zebstrika",
-          "level": 100,
-          "ability": "",
-          "item": "",
-          "nature": "",
-          "ivs": [31, 31, 31, 31, 31, 31],
-          "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Discharge", "Hydro Pump", "Reflect", "Light Screen"]
         },
         {
           "pokemon": "Plusle",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Lightning Rod",
+          "item": "Choice Specs",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Discharge",
+            "Grass Knot",
+            "Signal Beam",
+            "Hidden Power (Ice)"
+          ]
+        },
+        {
+          "pokemon": "Zebstrika",
+          "level": 83,
+          "ability": "Lightning Rod",
+          "item": "Focus Sash",
+          "nature": "",
+          "ivs": [31, 31, 31, 31, 31, 31],
+          "evs": [85, 85, 85, 85, 85, 85],
+          "moves": ["Low Kick", "Discharge", "Overheat", "Hidden Power (Grass)"]
         },
         {
           "pokemon": "Manectric",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 85,
+          "ability": "Lightning Rod",
+          "item": "Life Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": [
+            "Discharge",
+            "Flamethrower",
+            "Hidden Power (Water)",
+            "Swagger"
+          ]
         },
         {
           "pokemon": "Minun",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Volt Absorb",
+          "item": "Air Balloon",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Discharge", "Grass Knot", "Nasty Plot", "Baton Pass"]
         }
       ],
       [
         {
           "pokemon": "Raichu",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 84,
+          "ability": "Lightning Rod",
+          "item": "Focus Sash",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Discharge", "Petal Dance", "Focus Blast"]
         },
         {
-          "pokemon": "Manetric",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "pokemon": "Manectric",
+          "level": 85,
+          "ability": "Lightning Rod",
+          "item": "Air Balloon",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Hidden Power (Ice)", "Discharge", "Snarl", "Flamethrower"]
         },
         {
           "pokemon": "Electivire",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Motor Drive",
+          "item": "Life Orb",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Cross Chop", "Ice Punch", "Discharge", "Flamethrower"]
         },
         {
           "pokemon": "Pikachu",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Lightning Rod",
+          "item": "Light Ball",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Fake Out", "Brick Break", "Discharge", "Grass Knot"]
         },
         {
           "pokemon": "Pachirisu",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 82,
+          "ability": "Volt Absorb",
+          "item": "Air Balloon",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Super Fang", "Discharge", "Follow Me", "Light Screen"]
         },
         {
           "pokemon": "Zebstrika",
-          "level": 100,
-          "ability": "",
-          "item": "",
+          "level": 83,
+          "ability": "Lightning Rod",
+          "item": "Choice Specs",
           "nature": "",
           "ivs": [31, 31, 31, 31, 31, 31],
           "evs": [85, 85, 85, 85, 85, 85],
-          "moves": []
+          "moves": ["Discharge", "Overheat", "Hyper Beam", "Hidden Power (Ice)"]
         }
       ]
     ]

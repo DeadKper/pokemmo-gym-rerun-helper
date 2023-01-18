@@ -3,3 +3,15 @@ sed -r "s/\t/_/g" | sed -r "s/(.*)/¿\1?/g" | sed -r "s/([^_¿?]+)_*\t*/\n\t\t\t
 
 moves:
 sed -r "s/([^ ,][^,]+)/\"\1\"/g"
+
+import from forum inidividual commands:
+grep -iEv "[a-z0-9]+.gif"
+grep -iEv "[^\n].*speed[^\n]*"
+sed -r "s/([^,\n ][^,\n]+), ([^,]+), ([^,]+), ([^,]+)/_\"moves\": [\"\1\", \"\2\", \"\3\", \"\4\"]\n\t\t\t\t},\n/gi"
+sed -r "s/ *([^(]+) \(level ([0-9]*)\)/\t\t\t\t{_\"pokemon\": \"\1\",_\"level\": \2,/gi"
+sed -r "s/ability: ([^\n]*)/_\"ability\": \"\1\",/gi"
+sed -r "s/item: ([^\n]*)/_\"item\": \"\1\",_\"nature\": \"\",_\"ivs\": [31, 31, 31, 31, 31, 31],_\"evs\": [85, 85, 85, 85, 85, 85],/gi"
+sed -r "s/_/\n\t\t\t\t\t/g"
+
+import from forum:
+grep -iEv "[a-z0-9]+.gif" | grep -iEv "[^\n].*speed[^\n]*" | sed -r "s/([^,\n ][^,\n]+), ([^,]+), ([^,]+), ([^,]+)/_\"moves\": [\"\1\", \"\2\", \"\3\", \"\4\"]\n\t\t\t\t},\n/gi" | sed -r "s/ *([^(]+) \(level ([0-9]*)\)/\t\t\t\t{_\"pokemon\": \"\1\",_\"level\": \2,/gi" | sed -r "s/ability: ([^\n]*)/_\"ability\": \"\1\",/gi" | sed -r "s/item: ([^\n]*)/_\"item\": \"\1\",_\"nature\": \"\",_\"ivs\": [31, 31, 31, 31, 31, 31],_\"evs\": [85, 85, 85, 85, 85, 85],/gi" | sed -r "s/_/\n\t\t\t\t\t/g"
